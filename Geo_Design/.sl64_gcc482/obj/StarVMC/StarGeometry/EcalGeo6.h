@@ -1,0 +1,1 @@
+../../../../StarVMC/StarGeometry/EcalGeo6.h

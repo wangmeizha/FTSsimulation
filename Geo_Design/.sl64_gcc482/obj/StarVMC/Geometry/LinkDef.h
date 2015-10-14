@@ -1,0 +1,42 @@
+/* This was generated for version 'DEV' */
+#pragma link off all globals;
+#pragma link off all classes;
+#pragma link off all functions;
+#ifdef __CINT__
+#pragma link C++ class Geom_t+;
+#pragma link C++ class BbcmGeom_t+;
+#pragma link C++ class CalbGeom_t+;
+#pragma link C++ class CaveGeom_t+;
+#pragma link C++ class EcalGeom_t+;
+#pragma link C++ class FpdmGeom_t+;
+#pragma link C++ class FsceGeom_t+;
+#pragma link C++ class HcalGeom_t+;
+#pragma link C++ class EiddGeom_t+;
+#pragma link C++ class FtpcGeom_t+;
+#pragma link C++ class FtsdGeom_t+;
+#pragma link C++ class MagpGeom_t+;
+#pragma link C++ class MfldGeom_t+;
+#pragma link C++ class MutdGeom_t+;
+#pragma link C++ class PhmdGeom_t+;
+#pragma link C++ class PipeGeom_t+;
+#pragma link C++ class PixlGeom_t+;
+#pragma link C++ class DtubGeom_t+;
+#pragma link C++ class SconGeom_t+;
+#pragma link C++ class SisdGeom_t+;
+#pragma link C++ class SvttGeom_t+;
+#pragma link C++ class BtofGeom_t+;
+#pragma link C++ class TpceGeom_t+;
+#pragma link C++ class TpcxGeom_t+;
+#pragma link C++ class VpddGeom_t+;
+#pragma link C++ class UpstGeom_t+;
+#pragma link C++ class ZcalGeom_t+;
+#pragma link C++ class FtroGeom_t+;
+#pragma link C++ class RichGeom_t+;
+#pragma link C++ class FgtdGeom_t+;
+#pragma link C++ class IdsmGeom_t+;
+#pragma link C++ class IstdGeom_t+;
+#pragma link C++ class PxstGeom_t+;
+#pragma link C++ class PsupGeom_t+;
+#pragma link C++ class PxldGeom_t+;
+#pragma link C++ class Geometry+;
+#endif
